@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'To be, or not to be: that is the question.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'No one whose testicles are crushed or whose male organ is cut off shall enter the assembly of the Lord.'      
 };
 
 function status(statusText) {
